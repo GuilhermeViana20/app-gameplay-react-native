@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         borderRightWidth: 1,
-        borderColor: '#991F36'
+        borderColor: theme.colors.line
     },
     icon: {
         width: 24,
